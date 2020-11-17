@@ -1,0 +1,24 @@
+{
+  "name": "greetings_speaker",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapetti/greetings_speaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sapetti/greetings_speaker/issues"
+  },
+  "homepage": "https://github.com/sapetti/greetings_speaker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "play-sound": "^1.1.3",
+    "tree-kill": "^1.2.2"
+  }
+}
